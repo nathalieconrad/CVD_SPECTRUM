@@ -1,0 +1,245 @@
+database	disease	description	icd_code
+ICD	Aortic aneurysm	Aortic aneurysm and dissection	I71
+ICD	Aortic aneurysm	"Thoracic aortic aneurysm, ruptured"	I71.1
+ICD	Aortic aneurysm	"Thoracic aortic aneurysm, without mention of rupture"	I71.2
+ICD	Aortic aneurysm	"Abdominal aortic aneurysm, ruptured"	I71.3
+ICD	Aortic aneurysm	"Abdominal aortic aneurysm, without mention of rupture"	I71.4
+ICD	Aortic aneurysm	"Thoracoabdominal aortic aneurysm, ruptured"	I71.5
+ICD	Aortic aneurysm	"Thoracoabdominal aortic aneurysm, without mention of rupture"	I71.6
+ICD	Aortic aneurysm	"Aortic aneurysm of unspecified site, ruptured"	I71.8
+ICD	Aortic aneurysm	"Aortic aneurysm of unspecified site, without mention of rupture"	I71.9
+OPCS	Aortic aneurysm	Endovascular insertion of stent graft for infrarenal abdominal aortic aneurysm	L27.1
+OPCS	Aortic aneurysm	Endovascular insertion of stent graft for suprarenal aortic aneurysm	L27.2
+OPCS	Aortic aneurysm	Endovascular insertion of stent graft for thoracic aortic aneurysm	L27.3
+OPCS	Aortic aneurysm	Endovascular insertion of stent graft for aortic aneurysm of bifurcation NEC	L27.5
+OPCS	Aortic aneurysm	Endovascular insertion of stent graft for aorto-uni-iliac aneurysm	L27.6
+OPCS	Aortic aneurysm	Endovascular insertion of stent for infrarenal abdominal aortic aneurysm	L28.1
+OPCS	Aortic aneurysm	Endovascular insertion of stent for suprarenal aortic aneurysm	L28.2
+OPCS	Aortic aneurysm	Endovascular insertion of stent for thoracic aortic aneurysm	L28.3
+OPCS	Aortic aneurysm	Endovascular insertion of stent for aortic aneurysm of bifurcation NEC	L28.5
+OPCS	Aortic aneurysm	Endovascular insertion of stent for aorto-uni-iliac aneurysm	L28.6
+ICD	Aortic stenosis	Aortic (valve) stenosis with insufficiency	I35.2
+ICD	Aortic stenosis	Aortic (valve) stenosis	I35.0
+OPCS	Aortic stenosis	Repair of supra-aortic stenosis	K37.4
+ICD	Atrial fibrillation/flutter	Atrial fibrillation and flutter	I48
+ICD	Atrial fibrillation/flutter	Paroxysmal atrial fibrillation	I48.0
+ICD	Atrial fibrillation/flutter	Persistent atrial fibrillation	I48.1
+ICD	Atrial fibrillation/flutter	Chronic atrial fibrillation	I48.2
+ICD	Atrial fibrillation/flutter	Typical atrial flutter	I48.3
+ICD	Atrial fibrillation/flutter	Atypical atrial flutter	I48.4
+ICD	Atrial fibrillation/flutter	"Atrial fibrillation and atrial flutter, unspecified"	I48.9
+OPCS	Atrial fibrillation/flutter	Percutaneous transluminal ablation of atrial wall for atrial flutter	K62.2
+OPCS	Atrial fibrillation/flutter	Percutaneous transluminal ablation of conducting system of heart for atrial flutter NEC	K62.3
+ICD	Heart block	Atrioventricular and left bundle-branch block	I44
+ICD	Heart block	Other and unspecified atrioventricular block	I44.3
+ICD	Heart block	Other specified heart block	I45.5
+ICD	Heart block	"Atrioventricular block, second degree"	I44.1
+ICD	Heart block	"Atrioventricular block, complete"	I44.2
+OPCS	Heart block	Cardiac pacemaker system introduced through vein	K60
+OPCS	Heart block	Implantation of intravenous cardiac pacemaker system NEC	K60.1
+OPCS	Heart block	Resiting of lead of intravenous cardiac pacemaker system	K60.2
+OPCS	Heart block	Renewal of intravenous cardiac pacemaker system NEC	K60.3
+OPCS	Heart block	Implantation of intravenous single chamber cardiac pacemaker system	K60.5
+OPCS	Heart block	Implantation of intravenous dual chamber cardiac pacemaker system	K60.6
+OPCS	Heart block	Other specified cardiac pacemaker system introduced through vein	K60.8
+OPCS	Heart block	Unspecified cardiac pacemaker system introduced through vein	K60.9
+OPCS	Heart block	Other cardiac pacemaker system	K61
+OPCS	Heart block	Implantation of cardiac pacemaker system NEC	K61.1
+OPCS	Heart block	Resiting of lead of cardiac pacemaker system NEC	K61.2
+OPCS	Heart block	Renewal of cardiac pacemaker system NEC	K61.3
+OPCS	Heart block	Implantation of single chamber cardiac pacemaker system	K61.5
+OPCS	Heart block	Implantation of dual chamber cardiac pacemaker system	K61.6
+OPCS	Heart block	Other specified other cardiac pacemaker system	K61.8
+OPCS	Heart block	Unspecified other cardiac pacemaker system	K61.9
+OPCS	Heart block	Other cardiac pacemaker system introduced through vein	K73
+OPCS	Heart block	Renewal of intravenous single chamber cardiac pacemaker system	K73.1
+OPCS	Heart block	Renewal of intravenous dual chamber cardiac pacemaker system	K73.2
+OPCS	Heart block	Other specified other cardiac pacemaker system introduced through vein	K73.8
+OPCS	Heart block	Unspecified other cardiac pacemaker system introduced through vein	K73.9
+OPCS	Heart block	Cardiac pacemaker system	K74
+OPCS	Heart block	Renewal of single chamber cardiac pacemaker system NEC	K74.1
+OPCS	Heart block	Renewal of dual chamber cardiac pacemaker system NEC	K74.2
+OPCS	Heart block	Other specified cardiac pacemaker system	K74.8
+OPCS	Heart block	Unspecified cardiac pacemaker system	K74.9
+ICD	Heart failure	Hypertensive heart disease with (congestive) heart failure	I11.0
+ICD	Heart failure	Hypertensive heart and renal disease with (congestive) heart failure	I13.0
+ICD	Heart failure	Hypertensive heart and renal disease with renal failure	I13.1
+ICD	Heart failure	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	I13.2
+ICD	Heart failure	Heart failure	I50
+ICD	Heart failure	Congestive heart failure	I50.0
+ICD	Heart failure	Left ventricular failure	I50.1
+ICD	Heart failure	"Heart failure, unspecified"	I50.9
+ICD	Heart failure	Ischaemic cardiomyopathy	I25.5
+ICD	Heart failure	Cardiomyopathy	I42
+ICD	Heart failure	Dilated cardiomyopathy	I42.0
+ICD	Heart failure	Other restrictive cardiomyopathy	I42.5
+ICD	Heart failure	Cardiomyopathy due to drugs and other external agents	I42.7
+ICD	Heart failure	"Cardiomyopathy, unspecified"	I42.9
+ICD	Heart failure	Cardiomyopathy in diseases classified elsewhere	I43
+ICD	Heart failure	Cardiomyopathy in metabolic diseases	I43.1
+ICD	Heart failure	Cardiomyopathy in nutritional diseases	I43.2
+ICD	Heart failure	Cardiomyopathy in other diseases classified elsewhere	I43.8
+ICD	Heart failure	Cardiomyopathy in the puerperium	O90.3
+ICD	Ischaemic heart disease	Angina pectoris	I20
+ICD	Ischaemic heart disease	Angina pectoris with documented spasm	I20.1
+ICD	Ischaemic heart disease	Other forms of angina pectoris	I20.8
+ICD	Ischaemic heart disease	"Angina pectoris, unspecified"	I20.9
+ICD	Ischaemic heart disease	Chronic ischaemic heart disease	I25
+ICD	Ischaemic heart disease	"Atherosclerotic cardiovascular disease, so described"	I25.0
+ICD	Ischaemic heart disease	Atherosclerotic heart disease	I25.1
+ICD	Ischaemic heart disease	Silent myocardial ischaemia	I25.6
+ICD	Ischaemic heart disease	Other forms of chronic ischaemic heart disease	I25.8
+ICD	Ischaemic heart disease	"Chronic ischaemic heart disease, unspecified"	I25.9
+ICD	Ischaemic heart disease	Unstable angina	I20.0
+ICD	Ischaemic heart disease	Acute myocardial infarction	I21
+ICD	Ischaemic heart disease	Acute transmural myocardial infarction of anterior wall	I21.0
+ICD	Ischaemic heart disease	Acute transmural myocardial infarction of inferior wall	I21.1
+ICD	Ischaemic heart disease	Acute transmural myocardial infarction of other sites	I21.2
+ICD	Ischaemic heart disease	Acute transmural myocardial infarction of unspecified site	I21.3
+ICD	Ischaemic heart disease	Acute subendocardial myocardial infarction	I21.4
+ICD	Ischaemic heart disease	"Acute myocardial infarction, unspecified"	I21.9
+ICD	Ischaemic heart disease	Subsequent myocardial infarction	I22
+ICD	Ischaemic heart disease	Subsequent myocardial infarction of anterior wall	I22.0
+ICD	Ischaemic heart disease	Subsequent myocardial infarction of inferior wall	I22.1
+ICD	Ischaemic heart disease	Subsequent myocardial infarction of other sites	I22.8
+ICD	Ischaemic heart disease	Subsequent myocardial infarction of unspecified site	I22.9
+ICD	Ischaemic heart disease	Certain current complications following acute myocardial infarction	I23
+ICD	Ischaemic heart disease	Haemopericardium as current complication following acute myocardial infarction	I23.0
+ICD	Ischaemic heart disease	Atrial septal defect as current complication following acute myocardial infarction	I23.1
+ICD	Ischaemic heart disease	Ventricular septal defect as current complication following acute myocardial infarction	I23.2
+ICD	Ischaemic heart disease	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction	I23.3
+ICD	Ischaemic heart disease	Rupture of chordae tendineae as current complication following acute myocardial infarction	I23.4
+ICD	Ischaemic heart disease	Rupture of papillary muscle as current complication following acute myocardial infarction	I23.5
+ICD	Ischaemic heart disease	"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"	I23.6
+ICD	Ischaemic heart disease	Other current complications following acute myocardial infarction	I23.8
+ICD	Ischaemic heart disease	Other acute ischaemic heart diseases	I24
+ICD	Ischaemic heart disease	Coronary thrombosis not resulting in myocardial infarction	I24.0
+ICD	Ischaemic heart disease	Other forms of acute ischaemic heart disease	I24.8
+ICD	Ischaemic heart disease	"Acute ischaemic heart disease, unspecified"	I24.9
+ICD	Peripheral arterial disease	Type 1 diabetes mellitus - With peripheral circulatory complications	E10.5
+ICD	Peripheral arterial disease	Type 2 diabetes mellitus - With peripheral circulatory complications	E11.5
+ICD	Peripheral arterial disease	Other specified diabetes mellitus - With peripheral circulatory complications	E13.5
+ICD	Peripheral arterial disease	Unspecified diabetes mellitus - With peripheral circulatory complications	E14.5
+ICD	Peripheral arterial disease	Atherosclerosis of arteries of extremities	I70.2
+ICD	Peripheral arterial disease	Atherosclerosis of arteries of extremities - without gangrene	I70.20
+ICD	Peripheral arterial disease	Atherosclerosis of arteries of extremities - with gangrene	I70.21
+ICD	Peripheral arterial disease	Atherosclerosis of other arteries	I70.8
+ICD	Peripheral arterial disease	Atherosclerosis of other arteries - with gangrene	I70.81
+ICD	Peripheral arterial disease	Generalized and unspecified atherosclerosis - with gangrene	I70.91
+ICD	Peripheral arterial disease	Aneurysm and dissection of artery of lower extremity	I72.4
+ICD	Peripheral arterial disease	Other peripheral vascular diseases	I73
+ICD	Peripheral arterial disease	Other specified peripheral vascular diseases	I73.8
+ICD	Peripheral arterial disease	"Peripheral vascular disease, unspecified"	I73.9
+ICD	Peripheral arterial disease	Embolism and thrombosis of arteries of lower extremities	I74.3
+ICD	Peripheral arterial disease	"Embolism and thrombosis of arteries of extremities, unspecified"	I74.4
+ICD	Peripheral arterial disease	Embolism and thrombosis of iliac artery	I74.5
+ICD	Peripheral arterial disease	Peripheral angiopathy in diseases classified elsewhere	I79.2
+ICD	Peripheral arterial disease	"Gangrene, not elsewhere classified"	R02
+OPCS	Peripheral arterial disease	Endarterectomy of iliac artery and patch repair of iliac artery	L52.1
+OPCS	Peripheral arterial disease	Endarterectomy of femoral artery and patch repair of femoral artery	L60.1
+OPCS	Peripheral arterial disease	Profundoplasty of femoral artery and patch repair of deep femoral artery	L60.3
+OPCS	Peripheral arterial disease	Percutaneous transluminal placement of peripheral stent in artery	L66.7
+OPCS	Peripheral arterial disease	Endarterectomy and patch repair of artery NEC	L68.1
+OPCS	Peripheral arterial disease	Percutaneous transluminal insertion of stent into iliac artery	L54.4
+OPCS	Peripheral arterial disease	Percutaneous transluminal insertion of stent into femoral artery	L63.5
+OPCS	Peripheral arterial disease	Other emergency bypass of iliac artery	L50
+OPCS	Peripheral arterial disease	Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC	L50.5
+OPCS	Peripheral arterial disease	Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC	L50.6
+OPCS	Peripheral arterial disease	Other specified other emergency bypass of iliac artery	L50.8
+OPCS	Peripheral arterial disease	Unspecified other emergency bypass of iliac artery	L50.9
+OPCS	Peripheral arterial disease	Other bypass of iliac artery	L51
+OPCS	Peripheral arterial disease	Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC	L51.5
+OPCS	Peripheral arterial disease	Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC	L51.6
+OPCS	Peripheral arterial disease	Other specified other bypass of iliac artery	L51.8
+OPCS	Peripheral arterial disease	Unspecified other bypass of iliac artery	L51.9
+OPCS	Peripheral arterial disease	Endarterectomy of iliac artery NEC	L52.2
+OPCS	Peripheral arterial disease	Percutaneous transluminal angioplasty of iliac artery	L54.1
+OPCS	Peripheral arterial disease	Percutaneous transluminal embolectomy of iliac artery	L54.2
+OPCS	Peripheral arterial disease	Other emergency bypass of femoral artery	L58
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC	L58.1
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC	L58.2
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC	L58.3
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC	L58.4
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC	L58.5
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC	L58.6
+OPCS	Peripheral arterial disease	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC	L58.7
+OPCS	Peripheral arterial disease	Other specified other emergency bypass of femoral artery	L58.8
+OPCS	Peripheral arterial disease	Unspecified other emergency bypass of femoral artery	L58.9
+OPCS	Peripheral arterial disease	Other bypass of femoral artery	L59
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC	L59.1
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC	L59.2
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC	L59.3
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC	L59.4
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC	L59.5
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC	L59.6
+OPCS	Peripheral arterial disease	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC	L59.7
+OPCS	Peripheral arterial disease	Other specified other bypass of femoral artery	L59.8
+OPCS	Peripheral arterial disease	Unspecified other bypass of femoral artery	L59.9
+OPCS	Peripheral arterial disease	Endarterectomy of femoral artery NEC	L60.2
+OPCS	Peripheral arterial disease	Profundoplasty of femoral artery NEC	L60.4
+OPCS	Peripheral arterial disease	Percutaneous transluminal angioplasty of femoral artery	L63.1
+OPCS	Peripheral arterial disease	Percutaneous transluminal embolectomy of femoral artery	L63.2
+OPCS	Peripheral arterial disease	Open embolectomy of iliac artery	L53.2
+OPCS	Peripheral arterial disease	Open embolectomy of femoral artery	L62.2
+ICD	Stroke	Intracerebral haemorrhage	I61
+ICD	Stroke	"Intracerebral haemorrhage in hemisphere, subcortical"	I61.0
+ICD	Stroke	"Intracerebral haemorrhage in hemisphere, cortical"	I61.1
+ICD	Stroke	"Intracerebral haemorrhage in hemisphere, unspecified"	I61.2
+ICD	Stroke	Intracerebral haemorrhage in brain stem	I61.3
+ICD	Stroke	Intracerebral haemorrhage in cerebellum	I61.4
+ICD	Stroke	"Intracerebral haemorrhage, intraventricular"	I61.5
+ICD	Stroke	"Intracerebral haemorrhage, multiple localized"	I61.6
+ICD	Stroke	Other intracerebral haemorrhage	I61.8
+ICD	Stroke	"Intracerebral haemorrhage, unspecified"	I61.9
+ICD	Stroke	Other nontraumatic intracranial haemorrhage	I62
+ICD	Stroke	"Intracranial haemorrhage (nontraumatic), unspecified"	I62.9
+ICD	Stroke	Sequelae of intracerebral haemorrhage	I69.1
+ICD	Stroke	Sequelae of other nontraumatic intracranial haemorrhage	I69.2
+ICD	Stroke	Cerebral infarction	I63
+ICD	Stroke	Cerebral infarction due to thrombosis of precerebral arteries	I63.0
+ICD	Stroke	Cerebral infarction due to embolism of precerebral arteries	I63.1
+ICD	Stroke	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries	I63.2
+ICD	Stroke	Cerebral infarction due to thrombosis of cerebral arteries	I63.3
+ICD	Stroke	Cerebral infarction due to embolism of cerebral arteries	I63.4
+ICD	Stroke	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries	I63.5
+ICD	Stroke	"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"	I63.6
+ICD	Stroke	Other cerebral infarction	I63.8
+ICD	Stroke	"Cerebral infarction, unspecified"	I63.9
+ICD	Stroke	Occlusion and stenosis of basilar artery	I65.1
+ICD	Stroke	Occlusion and stenosis of middle cerebral artery	I66.0
+ICD	Stroke	Occlusion and stenosis of anterior cerebral artery	I66.1
+ICD	Stroke	Occlusion and stenosis of posterior cerebral artery	I66.2
+ICD	Stroke	Occlusion and stenosis of cerebellar arteries	I66.3
+ICD	Stroke	Occlusion and stenosis of multiple and bilateral cerebral arteries	I66.4
+ICD	Stroke	Occlusion and stenosis of other cerebral artery	I66.8
+ICD	Stroke	Occlusion and stenosis of unspecified cerebral artery	I66.9
+ICD	Stroke	Sequelae of cerebral infarction	I69.3
+ICD	Stroke	Pure motor lacunar syndrome	G46.5
+ICD	Stroke	Pure sensory lacunar syndrome	G46.6
+ICD	Stroke	Other lacunar syndromes	G46.7
+ICD	Stroke	Brain stem stroke syndrome	G46.3
+ICD	Stroke	Cerebellar stroke syndrome	G46.4
+ICD	Stroke	"Stroke, not specified as haemorrhage or infarction"	I64
+ICD	Venous thromboembolism	Obstetric blood-clot embolism	O88.2
+ICD	Venous thromboembolism	Pulmonary embolism	I26
+ICD	Venous thromboembolism	Pulmonary embolism with mention of acute cor pulmonale	I26.0
+ICD	Venous thromboembolism	Pulmonary embolism without mention of acute cor pulmonale	I26.9
+ICD	Venous thromboembolism	Other venous embolism and thrombosis	I82
+ICD	Venous thromboembolism	Embolism and thrombosis of vena cava	I82.2
+ICD	Venous thromboembolism	Embolism and thrombosis of other specified veins	I82.8
+ICD	Venous thromboembolism	Embolism and thrombosis of unspecified vein	I82.9
+ICD	Venous thromboembolism	Phlebitis and thrombophlebitis of other deep vessels of lower extremities	I80.2
+ICD	Venous thromboembolism	Nonpyogenic thrombosis of intracranial venous system	I67.6
+ICD	Venous thromboembolism	Deep phlebothrombosis in the puerperium	O87.1
+ICD	Venous thromboembolism	Cerebral infarction due to embolism of precerebral arteries	I63.1
+ICD	Venous thromboembolism	Cerebral infarction due to embolism of cerebral arteries	I63.4
+OPCS	Venous thromboembolism	Open removal of thrombus from vein	L90
+OPCS	Venous thromboembolism	Open thrombectomy of vein of upper limb	L90.1
+OPCS	Venous thromboembolism	Open thrombectomy of vein of lower limb	L90.2
+OPCS	Venous thromboembolism	Other specified open removal of thrombus from vein	L90.8
+OPCS	Venous thromboembolism	Unspecified open removal of thrombus from vein	L90.9
+OPCS	Venous thromboembolism	Percutaneous removal of thrombus from vein	L96
+OPCS	Venous thromboembolism	Other specified percutaneous removal of thrombus from vein	L96.8
+OPCS	Venous thromboembolism	Unspecified percutaneous removal of thrombus from vein	L96.9
+OPCS	Venous thromboembolism	Percutaneous transluminal venous thrombolysis with reconstruction	L99.3
+OPCS	Venous thromboembolism	Percutaneous transluminal venous thrombolysis NEC	L99.4
